@@ -16,6 +16,7 @@
   },
   "homepage": "https://github.com/dmitrykurmanov/SF-TS-Final-Task#readme",
   "devDependencies": {
-    "http-server": "^14.1.1"
+    "http-server": "^14.1.1",
+    "typescript": "^5.4.5"
   }
 }
